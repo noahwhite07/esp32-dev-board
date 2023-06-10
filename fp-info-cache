@@ -1,4 +1,4 @@
-20906924950290058
+20899095359689812
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -64428,13 +64428,6 @@ DFN 0.5
 13
 9
 Package_DFN_QFN
-DFN-8-1EP_3x2mm_P0.5mm_EP1.6x1.5mm
-
-
-0
-9
-9
-Package_DFN_QFN
 DFN-8-1EP_3x2mm_P0.5mm_EP1.7x1.4mm
 DFN, 8 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/8L_DFN_2x3x0_9_MC_C04-123C.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
 DFN NoLead
@@ -87534,24 +87527,3 @@ varistor
 0
 2
 2
-XBee
-XB3-24DMUM-J
-
-
-0
-0
-0
-XBee
-XB3-24Z8CM.kicad_mod
-
-
-0
-0
-0
-XBee
-XB3-24Z8UM-J
-
-
-0
-34
-34
